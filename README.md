@@ -1,10 +1,10 @@
-### Hi there 👋
-
-- 🔭 I’m currently studying on Muhammadiyah University of Parepare
-- 🌱 I’m currently learning Full Stack Developer Web
-- 👯 I’m looking to collaborate on Dicoding Academy
-- 🤔 I’m looking for help with Mentor for Full Stack Developer
-- 💬 Ask me about ...
-- 📫 How to reach me: ig @raicuul
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Nime Lovers
+# Halo semua! 
+Perkenalkan nama saya **Raisul Amin R**.\
+Saya seorang **College Student** di [Muhammadiyah University of Parepare](http://umpar.ac.id/).\
+ 
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
