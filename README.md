@@ -1,6 +1,6 @@
 # Halo semua! 
 Perkenalkan nama saya **Raisul Amin R**.\
-Saya seorang **College Student** di [Muhammadiyah University of Parepare](http://umpar.ac.id/).\
+Saya seorang **College Student** di [Muhammadiyah University of Parepare](http://umpar.ac.id/).  
  
 <p align="left">
 <a href="https://github.com/gilangadhan">
